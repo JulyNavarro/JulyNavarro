@@ -1,3 +1,11 @@
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/july-navarro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</div>
+
 ### Hi There, I'm July Navarro👋
 
 - 🎓 I am a trilingual professional (Portuguese, Spanish, English) holding a BSc in Production Engineering by Universidade Federal Fluminense and MBA in Project Management by Fundação Getulio Vargas(🇧🇷), who relocated to Ireland in order to improve my English and gain essential international exposure.
@@ -14,3 +22,4 @@
   🗺️ I'm a fan of Travelling and meeting new people and their cultures. 
   🍝🍻 Also, I enjoy spending time with my friends, cooking new meals and drinking different beers. 
   👟🎾 Running and playing tennis.
+
